@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+⚡ Work experience: <br>
+
+- **Software engineer intern at Webconnex** - Frontend development. [Remote. Summer 2023]
+
+🌱 Interests:
+- Frontend development
+- Backend development
+
+💬 Reach me by email or LinkedIn! jairxortega@gmail.com | https://www.linkedin.com/in/jairxortega/
+
+📫 Visit my website! : [jairxortega.tech](https://jairxortega.tech/)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jairxortega=&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <!--
 **jairxortega/jairxortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
