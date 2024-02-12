@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🎓 Computer Science student at Texas A&M - Commerce RELLIS Campus 
+
 ⚡ Work experience: <br>
 
 - **Software engineer intern at Webconnex** - Frontend development. [Remote. Summer 2023]
