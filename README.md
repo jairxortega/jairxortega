@@ -5,8 +5,8 @@
 - **Software engineer intern at Webconnex** - Frontend development. [Remote. Summer 2023]
 
 🌱 Interests:
-- Frontend development
-- Backend development
+- Web development
+- Mobile development
 
 💬 Reach me by email or LinkedIn! jairxortega@gmail.com | https://www.linkedin.com/in/jairxortega/
 
