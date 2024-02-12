@@ -10,10 +10,6 @@
 - Web development
 - Mobile development
 
-💬 Reach me by email or LinkedIn! jairxortega@gmail.com | https://www.linkedin.com/in/jairxortega/
-
-📫 Visit my website! : [jairxortega.tech](https://jairxortega.tech/)
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jairxortega=&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
