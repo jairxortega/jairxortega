@@ -7,8 +7,7 @@
 - **Software engineer intern at Webconnex** - Frontend development. [Remote. Summer 2023]
 
 🌱 Interests:
-- Web development
-- Mobile development
+- Backend development
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairxortega&layout=compact)
 -->
