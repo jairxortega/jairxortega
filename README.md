@@ -4,7 +4,7 @@
 
 ⚡ Work experience: <br>
 
-- **Software engineer intern at Webconnex** - Frontend development. [Remote. Summer 2023]
+- **Software Developer intern at Webconnex** - Frontend development. [Remote. Summer 2023]
 
 🌱 Interests:
 - Backend development
