@@ -4,10 +4,13 @@
 
 ⚡ Work experience: <br>
 
-- **Software Developer intern at Webconnex** - Frontend development. [Remote. Summer 2023]
+- **Internship - Webconnex** - [Remote. Summer 2023]
+- **Internship - Webconnex** - [Remote. Summer 2022]
 
+<!--
 🌱 Interests:
 - Backend development
+-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairxortega&layout=compact)
 -->
