@@ -4,6 +4,7 @@
 
 ⚡ Work experience: <br>
 
+- **Software Engineer Intern at Texas A&M Transportation Institute** - [College Station, Texas. 2024-2025]
 - **Software Engineer Intern at Webconnex** - [Remote. Summer 2023]
 
 <!--
