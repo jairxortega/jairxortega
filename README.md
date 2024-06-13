@@ -4,8 +4,7 @@
 
 ⚡ Work experience: <br>
 
-- **Internship - Webconnex** - [Remote. Summer 2023]
-- **Internship - Webconnex** - [Remote. Summer 2022]
+- **Software Engineer Intern at Webconnex** - [Remote. Summer 2023]
 
 <!--
 🌱 Interests:
