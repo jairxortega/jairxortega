@@ -4,7 +4,7 @@
 
 ⚡ Work experience: <br>
 
-- **Software Engineer at RottenApples.com** - [Remote. 2025]
+- **Software Engineer Intern at Paycom** - [Dallas, Texas. 2025]
 - **Software Engineer Intern at Texas A&M Transportation Institute** - [College Station, Texas. 2024-2025]
 - **Software Engineer Intern at Webconnex** - [Remote. Summer 2023]
 
