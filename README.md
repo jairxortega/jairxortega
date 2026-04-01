@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-🎓 Computer Science student at Texas A&M - Commerce RELLIS Campus 
+🎓 B.S in Computer science - East Texas A&M University
 
 ⚡ Work experience: <br>
 
+- **Software Engineer at ConnectMeds** - [Remote. 2026]
 - **Software Engineer Intern at Paycom** - [Dallas, Texas. 2025]
 - **Software Engineer Intern at Texas A&M Transportation Institute** - [College Station, Texas. 2024-2025]
 - **Software Engineer Intern at Webconnex** - [Remote. Summer 2023]
